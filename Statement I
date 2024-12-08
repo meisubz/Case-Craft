@@ -1,0 +1,52 @@
+# Product Teardown Competition - Lending & Credit Product for INDmoney  
+*Hosted (Online) by: IIM Visakhapatnam via Unstop*  
+
+## Overview
+As part of the **Product Teardown Competition** hosted on Unstop by IIM Visakhapatnam, I formulated a 3-slider solution for building a powerful lending product for INDmoney, leveraging user data. Below is the breakdown of the approach I took across three key areas: Product Development, Roadmap, and Go-to-Market Strategy.
+
+## Solution Overview
+In the competition, the problem statement was: *How would you build a powerful and elegant lending product for users at INDmoney, leveraging users’ information?* I structured my solution by addressing the following questions:
+
+### 1. **Product Development**
+I proposed the following key features for the lending product:
+
+#### **Lending Dashboard**
+The **Lending Dashboard** would serve as the central hub for managing all loan-related activities. It would be the primary interface through which users could access the product’s core features.
+
+#### **Core Features**
+- **Goal-Based Loans**: By analyzing transaction trends, the system would predict borrowing needs (e.g., for education, marriage) and allow users to manually create custom goals. 
+- **Dynamic Credit Line**: Credit limits would be dynamically revised based on users' past financial behavior and immediate future goals, ensuring the product stays relevant as users’ financial needs evolve.
+- **Personalized Loan Offers**: AI would analyze user data such as income, expenses, and financial history to deliver tailored, pre-approved loan offers that meet each user’s unique needs.
+- **Personalized User Insights**: AI-driven recommendations would be provided to users, offering actionable financial tips based on their financial data analysis, helping them make informed decisions about loans and credit usage.
+
+### 2. **Phase-Wise Roadmap**
+The roadmap was designed to launch the product iteratively, focusing on key features for the MVP:
+
+#### **MVP Definition**
+The **MVP** would focus on:
+- The **Lending Dashboard**.
+- **Goal-Based Loans**.
+- **Personalized Loan Offers** using basic AI.
+- **Dynamic Credit Line**.
+
+### 3. **Go-to-Market Strategy**
+To successfully position and launch the product, the strategy would focus on both driving adoption among existing users (2M+ on INDmoney) and acquiring new users:
+
+#### **Acquiring New Users**
+- **Referral Programs**: Incentivize current users to invite new users by offering loan benefits or discounts.
+- **Targeted Digital Ads**: Use data analytics to run ads targeting individuals based on demographic and behavioral patterns (e.g., young professionals, students).
+
+#### **Driving Adoption Among Existing Users**
+- **In-app Notifications**: Leverage existing user engagement tools to notify users about personalized loan offers, encouraging them to take advantage of the new features.
+- **User Onboarding**: Develop an easy onboarding process with a tutorial to walk users through the features of the Lending Dashboard.
+
+## Conclusion
+Though I did not qualify for the second round, this exercise allowed me to showcase my product management skills by designing a comprehensive solution for a complex problem. The formulation of a dynamic, personalized lending product would help INDmoney leverage its existing user base and data to offer valuable, tailored financial services.
+
+---
+
+### **Learnings**
+This competition helped me refine my skills in:
+- **Product Development**: Building user-centric, data-driven solutions.
+- **Roadmap Planning**: Crafting a phased, strategic approach to product launches.
+- **Go-to-Market Strategy**: Driving adoption with targeted outreach and leveraging existing user bases. dont change anything, just putting this here
